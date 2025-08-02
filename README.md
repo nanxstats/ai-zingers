@@ -12,6 +12,15 @@ An AI zinger is a concise, memorable statement that captures a truth, insight, o
 
 > Agentic AI is "models using tools in loops".
 
+### AI coding
+
+> The most important question becomes less about "how to build" something,
+> but more about "what to build".
+
+> Ultimately, it comes down to taste. It comes down to trying to expose
+> yourself to the best things that humans have done and then try to bring
+> those things into what you're doing. (Steve Jobs)
+
 ### AGI
 
 > Some say "AGI is imminent", some say "AGI is impossible",
