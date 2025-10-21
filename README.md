@@ -21,6 +21,12 @@ An AI zinger is a concise, memorable statement that captures a truth, insight, o
 > yourself to the best things that humans have done and then try to bring
 > those things into what you're doing. (Steve Jobs)
 
+### Language and intelligence
+
+> Language is but a projection of intelligence onto the token space.
+> Reasoning confined to tokens is inherently suboptimal - a shadow of
+> the latent space where intelligence truly resides.
+
 ### AGI
 
 > Some say "AGI is imminent", some say "AGI is impossible",
